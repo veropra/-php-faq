@@ -1,0 +1,32 @@
+.footer_container{
+  height: 60px;
+  background-color: #f5f5f5;
+  border-top: 1px solid #dcdde1;
+  margin-top: 825px;
+  color: #636e72;
+}
+
+.bg{
+  margin-left: 150px;
+}
+
+.footer_list{
+  cursor: pointer;
+
+  & li {
+    float: left;
+    margin-right: 20px;
+    font-size: 10px;
+    margin-top: 25px;
+  }
+}
+
+.footer_button{
+  margin-left: 500px;
+  background-color: #fff;
+  margin-top: 20px;
+  border: 1px solid #636e72;
+  color: #000;
+  width: 180px;
+  text-align: left;
+}
